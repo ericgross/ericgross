@@ -1,7 +1,7 @@
 ---
-parent: Concepts
 title: Quality
-permalink: /concepts/quality/
+permalink: "/concepts/quality/"
+parent: Concepts
 ---
 
 # Quality in software
